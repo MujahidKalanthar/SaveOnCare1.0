@@ -1,0 +1,7 @@
+{
+  "name": "SaveOnCare — Healthcare Billing Transparency Platform",
+  "description": "Patient-facing healthcare billing transparency platform by VoltEdge for MNNIT Allahabad Renaissance 10.0. Enables hospital bill itemisation, reference-rate comparison, and actionable clarity reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
